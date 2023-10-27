@@ -1,3 +1,4 @@
+<!-- hackerrank -->
 SELECT
     ua.id AS user_id,
     ua.first_name,
